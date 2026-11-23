@@ -72,3 +72,6 @@ Copy one of the build scripts. Change `NAME`, `MUSIC`, `DUR`, the `SCENES` timin
 For reel 2 you can also change the photo and the `CAM` keyframes (`[t, focal x, focal y, scale]`).
 
 No credentials are in this folder. The only optional secret is `GEMINI_API_KEY`, used only by the voiced variant.
+
+- `sleepy-cat.mp3`: "Sleepy Cat" by Alejandro Magaña (A. M.), Mixkit (https://mixkit.co/free-stock-music/sleepy-cat/, file https://assets.mixkit.co/music/135/135.mp3).
+  Used for `reel-2026-11-23-bedtime-v2.mp4` (loudnorm -16 LUFS, 0.8 s in, 1.5 s out). Mixkit Stock Music Free License (https://mixkit.co/license/#musicFree).
